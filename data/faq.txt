@@ -1,0 +1,140 @@
+FREQUENTLY ASKED QUESTIONS (FAQ) — SAMPLE
+Greenfield Institute of Technology and Management
+AI College Admission Agent — Knowledge Base
+
+NOTE: This is a SAMPLE/DEMO FAQ document. Replace with your institution's official FAQ.
+
+=============================================================
+GENERAL ADMISSION QUESTIONS
+=============================================================
+
+Q: When does the admission process start?
+A: The online application portal opens on 1st March 2025 for undergraduate programmes
+   and 15th March 2025 for postgraduate programmes (sample dates).
+
+Q: Is there an entrance exam?
+A: Yes. The institution conducts its own entrance test called GITM-ET.
+   Students with valid JEE Main scores may be eligible for direct admission
+   based on JEE merit. Students without JEE scores must appear for GITM-ET.
+
+Q: How do I apply?
+A: Applications are accepted online through the admissions portal.
+   Register on the portal, fill in the application form, upload documents,
+   and pay the application fee. See the Admission Policy for the full process.
+
+Q: Can I apply for multiple courses?
+A: Yes, you can indicate your course preferences during the online application.
+   You may list up to 3 course preferences in order of priority.
+
+Q: What is the application fee?
+A: The application fee is INR 500 for General category and INR 250 for SC/ST
+   candidates (sample amounts). The application fee is non-refundable.
+
+=============================================================
+COURSES AND ELIGIBILITY QUESTIONS
+=============================================================
+
+Q: What is the minimum percentage required for B.Tech admission?
+A: Minimum 60% aggregate in Physics, Chemistry, and Mathematics (PCM)
+   in Class 12 board examinations. SC/ST candidates: 55%.
+
+Q: Is Mathematics mandatory for B.Tech?
+A: Yes. Mathematics and Physics are mandatory subjects for all B.Tech programmes.
+
+Q: I have Biology instead of Computer Science in Class 12. Can I still apply?
+A: Yes, if you have Physics, Chemistry, and Mathematics. Biology is not a
+   required subject for B.Tech engineering programmes.
+
+Q: Can I apply for B.Tech if I appeared in JEE Main but did not qualify?
+A: Yes, you can appear in the GITM-ET (institution's own entrance test).
+   There is no JEE Main qualifying score requirement — JEE score is used
+   for merit ranking if available.
+
+Q: What is the difference between B.Tech CSE and B.Tech AI & Data Science?
+A: B.Tech CSE is a broader programme covering all areas of computer science
+   with an optional AI/ML specialization in the final year.
+   B.Tech AI & Data Science (AIDS) is a specialized programme focused exclusively
+   on Artificial Intelligence, Machine Learning, and Data Science from the first year.
+
+Q: Can I join M.Tech without a GATE score?
+A: Yes, GATE score is preferred but not mandatory for M.Tech admission.
+   However, GATE score holders receive scholarship preference.
+
+=============================================================
+FEES AND SCHOLARSHIPS QUESTIONS
+=============================================================
+
+Q: What is the total fee for B.Tech?
+A: The approximate total fee for a 4-year B.Tech programme is INR 6,32,000
+   (approximately INR 1,58,000 per year — sample amounts). This includes
+   tuition, development, exam, library, and laboratory fees.
+
+Q: Are scholarships available?
+A: Yes. Several scholarships are available including merit scholarships
+   (up to 100% tuition waiver for top rankers), need-based financial assistance,
+   and facilitated government scholarship applications. See the Scholarships document.
+
+Q: Is education loan assistance available?
+A: Yes. The institution has tie-ups with SBI, Bank of Baroda, and Canara Bank
+   for education loans. The Finance Office can assist with documentation.
+
+Q: What is the last date to apply for scholarship?
+A: Institution scholarships must be applied for within 30 days of joining.
+   Government scholarships through NSP (National Scholarship Portal) must be
+   applied by October 31 each year.
+
+=============================================================
+DOCUMENTS QUESTIONS
+=============================================================
+
+Q: What documents are required for admission?
+A: Key documents include: Class 10 and 12 mark sheets and certificates,
+   Transfer Certificate, Community Certificate (if applicable),
+   Income Certificate (for fee concession), Aadhar Card, 6 passport photographs.
+   See the Documents Required guide for the complete list.
+
+Q: Can I submit photocopies during application?
+A: Scanned copies are accepted during the online application.
+   Original documents must be produced at the time of document verification.
+
+Q: My Transfer Certificate hasn't arrived yet. Can I still apply?
+A: Yes, you can apply without the Transfer Certificate.
+   However, you must produce the TC at the time of final document verification.
+   Without TC submission, admission cannot be confirmed.
+
+=============================================================
+HOSTEL AND CAMPUS QUESTIONS
+=============================================================
+
+Q: Is hostel accommodation available on campus?
+A: Yes. On-campus hostel is available for both male and female students.
+   Rooms are available in non-AC and AC variants (twin sharing and single).
+
+Q: What is the hostel fee?
+A: Non-AC twin sharing: INR 40,000/year; Non-AC single: INR 55,000/year;
+   AC twin sharing: INR 65,000/year (sample amounts). Mess is approximately
+   INR 3,500 per month.
+
+Q: Is hostel accommodation guaranteed?
+A: Hostel allotment is based on availability and is done on merit order.
+   Not all applicants are guaranteed hostel accommodation.
+
+=============================================================
+CONTACT AND SUPPORT
+=============================================================
+
+Q: How do I contact the Admissions Office?
+A: Email: admissions@gitm.ac.in (SAMPLE)
+   Phone: +91-XXXX-XXXXXX (SAMPLE)
+   Office Hours: Monday to Friday, 9:00 AM – 5:00 PM
+
+Q: What if I have a technical issue with the online application?
+A: Email the technical support team at techsupport@gitm.ac.in (SAMPLE)
+   or call the helpline during office hours.
+
+=============================================================
+NOTE
+=============================================================
+
+All information in this FAQ is SAMPLE data created for demonstration purposes.
+Contact your institution's admissions office for accurate and up-to-date information.

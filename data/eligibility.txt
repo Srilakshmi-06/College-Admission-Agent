@@ -1,0 +1,91 @@
+ELIGIBILITY CRITERIA — SAMPLE ADMISSION GUIDE
+Greenfield Institute of Technology and Management
+Academic Year 2024-2025
+
+NOTE: This is a SAMPLE/DEMO document. Replace with your institution's official document.
+
+=============================================================
+UNDERGRADUATE ELIGIBILITY CRITERIA
+=============================================================
+
+B.Tech Programmes (All Branches including CSE, AIDS, ECE, ME, CE):
+- Minimum Academic Qualification: Class 12 (10+2) or equivalent
+- Required Subjects: Mathematics, Physics, and Chemistry/Computer Science/Biology
+  (Physics and Mathematics are mandatory for all B.Tech programmes)
+- Minimum Marks: 60% aggregate in PCM (Physics, Chemistry, Mathematics)
+  or PCB (Physics, Chemistry, Biology) or PCMC (Physics, Chemistry, Maths, Computer Science)
+- For SC/ST/OBC categories: Minimum 55% aggregate (as per government norms)
+- Age Limit: Minimum 17 years as of December 31 of the admission year
+
+Entrance Examination:
+- JEE Main score is accepted for merit-based admission
+- The institution also conducts its own entrance test: GITM-ET (Greenfield Entrance Test)
+- Students with JEE Main score above the cutoff may be directly admitted
+- Students without JEE Main score must appear for GITM-ET
+
+B.Sc Data Science and Analytics:
+- Minimum: Class 12 with Mathematics as a subject
+- Minimum 55% aggregate marks
+- No separate entrance exam required
+
+BCA (Bachelor of Computer Applications):
+- Minimum: Class 12 in any stream with Mathematics
+- Minimum 50% aggregate marks
+- No separate entrance exam required
+
+=============================================================
+POSTGRADUATE ELIGIBILITY CRITERIA
+=============================================================
+
+M.Tech — Computer Science and Engineering:
+- B.Tech/B.E. in Computer Science, IT, or related field
+- Minimum 60% aggregate (or 6.5 CGPA)
+- GATE score preferred but not mandatory
+- Valid GATE score holders get scholarship preference
+
+M.Tech — Artificial Intelligence:
+- B.Tech/B.E. in CSE, IT, ECE, or B.Sc in Computer Science/Mathematics/Statistics
+- Minimum 60% aggregate (or 6.5 CGPA)
+- GATE score preferred
+
+MBA — Master of Business Administration:
+- Any undergraduate degree (minimum 3 years) from a recognised university
+- Minimum 50% aggregate marks
+- CAT/MAT/XAT score accepted for merit shortlisting
+- Group Discussion (GD) and Personal Interview (PI) are part of the selection process
+
+M.Sc — Data Science:
+- B.Sc / B.Tech in Mathematics, Statistics, Computer Science, or related field
+- Minimum 55% aggregate marks
+
+=============================================================
+SPECIAL CATEGORIES
+=============================================================
+
+NRI/Foreign Students:
+- Equivalent qualifications from recognised foreign boards accepted
+- Contact the International Admissions Office for specific requirements
+
+Persons with Disabilities (PwD):
+- 3% horizontal reservation as per Government of India norms
+- Minimum eligibility criteria as per UGC guidelines
+
+Sports Quota:
+- Up to 2% seats reserved for outstanding sports persons
+- Must provide valid sports achievement certificate from recognised federation
+
+=============================================================
+IMPORTANT NOTES ON ELIGIBILITY
+=============================================================
+
+1. Meeting minimum eligibility does NOT guarantee admission.
+   Admission is merit-based and depends on available seats.
+
+2. Eligibility criteria may be revised each year. Always refer to the
+   official admission notification for the current academic year.
+
+3. Candidates must produce original documents at the time of verification.
+   Any discrepancy may result in cancellation of admission.
+
+4. This document is for sample/demonstration purposes only.
+   Real eligibility criteria should be obtained from the official institution.

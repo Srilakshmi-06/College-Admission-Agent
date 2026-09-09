@@ -1,0 +1,128 @@
+ADMISSION POLICY — SAMPLE GUIDE
+Greenfield Institute of Technology and Management
+Academic Year 2024-2025
+
+NOTE: This is a SAMPLE/DEMO document. Replace with your institution's official policy.
+
+=============================================================
+ADMISSION POLICY OVERVIEW
+=============================================================
+
+Greenfield Institute of Technology and Management (GITM) follows a transparent,
+merit-based admission process. Admissions are governed by:
+- The institution's own admission rules
+- University Grants Commission (UGC) guidelines
+- State Government reservation policies
+- AICTE norms (for technical programmes)
+
+=============================================================
+RESERVATION POLICY
+=============================================================
+
+Horizontal Reservations (applicable across all categories):
+  Physically Challenged (PwD)    : 3%
+  Sports Quota                   : 2%
+
+Vertical Reservations (state government norms — SAMPLE):
+  Scheduled Caste (SC)           : 15%
+  Scheduled Tribe (ST)           : 7.5%
+  Other Backward Classes (OBC-NCL): 27%
+  Economically Weaker Section (EWS): 10%
+  General Category (Open Merit)  : 40.5%
+
+Note: Reservations are subject to State Government norms. The actual
+reservation percentages may vary based on state regulations. Refer to
+the official notification for applicable reservation policy.
+
+=============================================================
+ADMISSION PROCESS
+=============================================================
+
+Step 1 — Online Registration
+  - Visit the admissions portal: admissions.gitm.ac.in (SAMPLE URL)
+  - Create an account with a valid email address and mobile number
+  - Fill in the online application form
+
+Step 2 — Application Fee Payment
+  - Pay the application fee online (INR 500 for general, INR 250 for SC/ST)
+  - Application fee is non-refundable
+
+Step 3 — Entrance Test (if applicable)
+  - Download the hall ticket from the admissions portal
+  - Appear for GITM-ET on the scheduled date
+  - JEE Main qualified students may be exempted
+
+Step 4 — Merit List
+  - Merit is calculated based on:
+    - JEE Main score (if submitted): 60% weightage
+    - Class 12 marks: 40% weightage
+    - For students appearing GITM-ET: GITM-ET score used instead of JEE
+
+Step 5 — Counselling
+  - Shortlisted students are called for online/offline counselling
+  - Students choose preferred courses and branches
+  - Seats are allotted based on merit rank and availability
+
+Step 6 — Document Verification
+  - Original documents must be produced for verification
+  - See documents_required.txt for the complete checklist
+
+Step 7 — Fee Payment and Admission Confirmation
+  - Pay the prescribed tuition and other fees within the deadline
+  - Admission is confirmed only after fee payment
+  - Collect the admission letter and ID card from the Admissions Office
+
+=============================================================
+CANCELLATION AND REFUND POLICY
+=============================================================
+
+Cancellation before the start of the academic session:
+  - Caution deposit (INR 5,000) is refunded
+  - Tuition fee refund as per UGC guidelines:
+    - Cancellation 15+ days before classes: Full refund minus INR 1,000 processing fee
+    - Cancellation 8–14 days before classes: 80% of tuition refunded
+    - Cancellation less than 8 days before classes: 50% of tuition refunded
+    - After classes begin: No refund of tuition fee
+
+=============================================================
+CODE OF CONDUCT
+=============================================================
+
+Students admitted to GITM must:
+- Adhere to the institution's Code of Conduct
+- Sign the Anti-Ragging Undertaking (mandatory under Supreme Court order)
+- Maintain minimum attendance (75% per subject)
+- Follow the academic calendar
+
+Violation of the Code of Conduct may result in disciplinary action,
+including suspension or expulsion.
+
+=============================================================
+LATERAL ENTRY ADMISSIONS
+=============================================================
+
+Lateral entry to the 2nd year (3rd semester) of B.Tech:
+  Eligible candidates: Diploma holders in relevant engineering discipline
+  Minimum marks: 60% in Diploma
+  Seats available: Up to 10% of sanctioned intake (lateral entry quota)
+  Process: Separate lateral entry merit list published
+  Direct admission without entrance test for lateral entry
+
+=============================================================
+CONTACT FOR ADMISSION QUERIES
+=============================================================
+
+Admissions Office
+  Location  : Room 101, Administrative Block
+  Hours     : Monday to Friday, 9:00 AM to 5:00 PM
+  Email     : admissions@gitm.ac.in (SAMPLE)
+  Phone     : +91-XXXX-XXXXXX (SAMPLE)
+
+=============================================================
+DISCLAIMER
+=============================================================
+
+This admission policy document is a SAMPLE created for demonstration purposes.
+Actual admission policies are set by the respective institution and may differ.
+Always refer to the official admission notification and the institution's website
+for accurate and current information.

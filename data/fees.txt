@@ -1,0 +1,98 @@
+FEE STRUCTURE — SAMPLE ADMISSION GUIDE
+Greenfield Institute of Technology and Management
+Academic Year 2024-2025
+
+NOTE: This is a SAMPLE/DEMO document. All fee amounts are illustrative only.
+Replace with official fee structure from your institution.
+
+=============================================================
+UNDERGRADUATE FEE STRUCTURE (Annual)
+=============================================================
+
+B.Tech — All Branches (CSE, AIDS, ECE, ME, CE)
+  Tuition Fee         : INR 1,20,000 per year
+  Development Fee     : INR 20,000 per year
+  Exam Fee            : INR 5,000 per year
+  Library Fee         : INR 3,000 per year
+  Laboratory Fee      : INR 10,000 per year
+  Total (Annual)      : INR 1,58,000 per year
+  Total (4 Years)     : Approximately INR 6,32,000
+
+B.Sc Data Science and Analytics
+  Tuition Fee         : INR 60,000 per year
+  Development Fee     : INR 10,000 per year
+  Other Fees          : INR 8,000 per year
+  Total (Annual)      : INR 78,000 per year
+
+BCA — Bachelor of Computer Applications
+  Tuition Fee         : INR 50,000 per year
+  Development Fee     : INR 8,000 per year
+  Other Fees          : INR 7,000 per year
+  Total (Annual)      : INR 65,000 per year
+
+=============================================================
+POSTGRADUATE FEE STRUCTURE (Annual)
+=============================================================
+
+M.Tech — All Specializations
+  Tuition Fee         : INR 80,000 per year
+  Development Fee     : INR 15,000 per year
+  Lab and Other Fees  : INR 10,000 per year
+  Total (Annual)      : INR 1,05,000 per year
+  Total (2 Years)     : Approximately INR 2,10,000
+
+MBA
+  Tuition Fee         : INR 1,50,000 per year
+  Development Fee     : INR 25,000 per year
+  Activity Fee        : INR 10,000 per year
+  Total (Annual)      : INR 1,85,000 per year
+  Total (2 Years)     : Approximately INR 3,70,000
+
+M.Sc Data Science
+  Tuition Fee         : INR 70,000 per year
+  Development Fee     : INR 10,000 per year
+  Total (Annual)      : INR 80,000 per year
+
+=============================================================
+ADDITIONAL FEES (One-Time)
+=============================================================
+
+  Registration / Admission Fee    : INR 2,000 (non-refundable)
+  Caution Deposit (Refundable)    : INR 5,000
+  Identity Card                   : INR 200
+
+=============================================================
+HOSTEL FEES (Optional — On-Campus)
+=============================================================
+
+  Non-AC Room (Twin Sharing)      : INR 40,000 per year
+  Non-AC Room (Single)            : INR 55,000 per year
+  AC Room (Twin Sharing)          : INR 65,000 per year
+  Mess/Dining (Monthly)           : INR 3,500 per month
+
+=============================================================
+FEE PAYMENT SCHEDULE
+=============================================================
+
+Semester 1 Fees: Due before July 31
+Semester 2 Fees: Due before December 15
+
+Fee payment modes accepted:
+- Online transfer (NEFT/RTGS/IMPS)
+- Demand Draft in favour of "Greenfield Institute"
+- Online fee portal at fees.gitm.ac.in (SAMPLE URL)
+
+=============================================================
+IMPORTANT FEE NOTES
+=============================================================
+
+1. Fee structure is subject to revision each year. Refer to the official
+   admission notification for the current academic year fees.
+
+2. Fee once paid is non-refundable except the Caution Deposit.
+
+3. Instalment facility available for students with financial hardship.
+   Contact the Finance Office for instalment request procedures.
+
+4. This document contains SAMPLE data only. Contact the institution's
+   Finance Office for actual fee information.

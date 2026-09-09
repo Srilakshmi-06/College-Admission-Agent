@@ -1,0 +1,99 @@
+COURSES OFFERED — SAMPLE ADMISSION GUIDE
+Greenfield Institute of Technology and Management
+Academic Year 2024-2025
+
+NOTE: This is a SAMPLE/DEMO document created for testing the AI College Admission Agent.
+Replace this file with your institution's official course catalog.
+
+=============================================================
+UNDERGRADUATE PROGRAMMES (4-YEAR)
+=============================================================
+
+1. B.Tech — Computer Science and Engineering (CSE)
+   Duration: 4 years (8 semesters)
+   Total Seats: 60
+   Specializations available in final year:
+   - Artificial Intelligence and Machine Learning
+   - Data Science
+   - Cybersecurity
+   - Cloud Computing
+
+2. B.Tech — Artificial Intelligence and Data Science (AIDS)
+   Duration: 4 years (8 semesters)
+   Total Seats: 60
+   Focus areas: Deep Learning, Natural Language Processing, Computer Vision,
+   Big Data Analytics, AI Ethics
+
+3. B.Tech — Electronics and Communication Engineering (ECE)
+   Duration: 4 years (8 semesters)
+   Total Seats: 60
+   Focus areas: VLSI Design, Embedded Systems, IoT, Signal Processing
+
+4. B.Tech — Mechanical Engineering (ME)
+   Duration: 4 years (8 semesters)
+   Total Seats: 60
+
+5. B.Tech — Civil Engineering (CE)
+   Duration: 4 years (8 semesters)
+   Total Seats: 60
+
+6. B.Sc — Data Science and Analytics
+   Duration: 3 years (6 semesters)
+   Total Seats: 40
+
+7. BCA — Bachelor of Computer Applications
+   Duration: 3 years (6 semesters)
+   Total Seats: 60
+
+=============================================================
+POSTGRADUATE PROGRAMMES (2-YEAR)
+=============================================================
+
+8. M.Tech — Computer Science and Engineering
+   Duration: 2 years (4 semesters)
+   Total Seats: 18
+
+9. M.Tech — Artificial Intelligence
+   Duration: 2 years (4 semesters)
+   Total Seats: 18
+
+10. MBA — Master of Business Administration
+    Duration: 2 years (4 semesters)
+    Specializations: Finance, Marketing, HR, Business Analytics
+    Total Seats: 60
+
+11. M.Sc — Data Science
+    Duration: 2 years (4 semesters)
+    Total Seats: 30
+
+=============================================================
+COURSE SELECTION GUIDANCE
+=============================================================
+
+For students interested in Artificial Intelligence:
+- B.Tech CSE with AI/ML specialization is highly recommended
+- B.Tech Artificial Intelligence and Data Science (AIDS) is the most focused option
+- B.Sc Data Science is a good option for those preferring a 3-year programme
+- M.Tech Artificial Intelligence is available for postgraduate study
+
+For students interested in Software Development:
+- B.Tech CSE is the most comprehensive programme
+- BCA is a good entry point requiring less strict eligibility
+
+For students with strong Mathematics background:
+- All engineering programmes welcome strong mathematics students
+- B.Sc Data Science and M.Sc Data Science are mathematics-intensive
+
+For students interested in Electronics:
+- B.Tech ECE covers embedded systems, IoT, and communication technologies
+
+=============================================================
+ABOUT GREENFIELD INSTITUTE (SAMPLE)
+=============================================================
+
+Greenfield Institute of Technology and Management is a fictional educational
+institution created solely for demonstration purposes. All information in this
+document is sample data for testing the AI College Admission Agent.
+
+When deploying for a real institution, replace all documents in the data/
+directory with official institutional documents.
